@@ -1,0 +1,15 @@
+C:\Sword\FrequencyAnalysis\bin\Release\net6.0\FrequencyAnalysis.exe
+C:\Sword\FrequencyAnalysis\bin\Release\net6.0\FrequencyAnalysis.deps.json
+C:\Sword\FrequencyAnalysis\bin\Release\net6.0\FrequencyAnalysis.runtimeconfig.json
+C:\Sword\FrequencyAnalysis\bin\Release\net6.0\FrequencyAnalysis.dll
+C:\Sword\FrequencyAnalysis\bin\Release\net6.0\FrequencyAnalysis.pdb
+C:\Sword\FrequencyAnalysis\obj\Release\net6.0\FrequencyAnalysis.csproj.AssemblyReference.cache
+C:\Sword\FrequencyAnalysis\obj\Release\net6.0\FrequencyAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sword\FrequencyAnalysis\obj\Release\net6.0\FrequencyAnalysis.AssemblyInfoInputs.cache
+C:\Sword\FrequencyAnalysis\obj\Release\net6.0\FrequencyAnalysis.AssemblyInfo.cs
+C:\Sword\FrequencyAnalysis\obj\Release\net6.0\FrequencyAnalysis.csproj.CoreCompileInputs.cache
+C:\Sword\FrequencyAnalysis\obj\Release\net6.0\FrequencyAnalysis.dll
+C:\Sword\FrequencyAnalysis\obj\Release\net6.0\refint\FrequencyAnalysis.dll
+C:\Sword\FrequencyAnalysis\obj\Release\net6.0\FrequencyAnalysis.pdb
+C:\Sword\FrequencyAnalysis\obj\Release\net6.0\FrequencyAnalysis.genruntimeconfig.cache
+C:\Sword\FrequencyAnalysis\obj\Release\net6.0\ref\FrequencyAnalysis.dll

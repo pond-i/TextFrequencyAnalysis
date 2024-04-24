@@ -1,0 +1,15 @@
+Results Output
+
+Time Elapsed: 6039ms.
+Total ignored characters: 12,087,255
+Total characters: 58,188,066
+e:(6589701)
+i:(5942898)
+u:(5067729)
+s:(5028216)
+t:(4982805)
+a:(4796544)
+n:(3456594)
+r:(3362313)
+l:(3114435)
+m:(2712726)

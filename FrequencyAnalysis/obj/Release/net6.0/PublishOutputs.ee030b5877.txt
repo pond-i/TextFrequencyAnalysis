@@ -1,0 +1,5 @@
+C:\Sword\FrequencyAnalysis\bin\Release\net6.0\publish\FrequencyAnalysis.exe
+C:\Sword\FrequencyAnalysis\bin\Release\net6.0\publish\FrequencyAnalysis.dll
+C:\Sword\FrequencyAnalysis\bin\Release\net6.0\publish\FrequencyAnalysis.deps.json
+C:\Sword\FrequencyAnalysis\bin\Release\net6.0\publish\FrequencyAnalysis.runtimeconfig.json
+C:\Sword\FrequencyAnalysis\bin\Release\net6.0\publish\FrequencyAnalysis.pdb

@@ -1,0 +1,17 @@
+Here is a set of 
+illegal characters
+sample;:!@#$%&*()_+|\][{~##//}]'
+\n
+\r
+\n\r
+\r
+
+
+
+
+
+
+
+THIS IS FOR WHITE SPACE
+
+

@@ -1,0 +1,15 @@
+Results Output
+
+Time Elapsed: 9ms.
+Total ignored characters: 75
+Total characters: 59
+e:(6)
+r:(6)
+a:(5)
+s:(4)
+l:(4)
+H:(3)
+I:(3)
+S:(3)
+i:(2)
+t:(2)

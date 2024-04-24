@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZADz+JoNeGOid2kj72peV3hlmGhqebcNKb9AgPWGYRbuWyj7wn+/lmk5gPsO2yHwGAASOhDVfPEIfPHdAdEnA==",
+  "success": true,
+  "projectFilePath": "C:\\Sword\\FrequencyAnalysis\\FrequencyAnalysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ponda\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.16\\microsoft.netcore.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\ponda\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\ponda\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x86.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

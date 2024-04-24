@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FrequencyAnalysis": {
+      "commandName": "Project",
+      "commandLineArgs": "SampleDataSet.txt"
+    }
+  }
+}
